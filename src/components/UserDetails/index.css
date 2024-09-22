@@ -1,0 +1,12 @@
+.listEle{
+    width: 30%;
+    padding: 15px;
+    margin: 15px;
+    border: 1px solid grey;
+    border-radius: 15px;
+    list-style-type: none;
+}
+
+.button{
+    margin: 10px;
+}

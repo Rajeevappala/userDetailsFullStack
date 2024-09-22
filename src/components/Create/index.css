@@ -1,0 +1,23 @@
+
+
+.formContainer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 30px;
+    width: 50vw;
+    height: 100%;
+    border: 1px solid grey;
+}
+
+.totalContainer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.heading{
+    font-size: 20px;
+    text-align: start;
+}

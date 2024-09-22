@@ -1,0 +1,14 @@
+
+
+.linkEle{
+    text-decoration: none;
+    margin: 0px 10px 0px 10px;
+    color: black;
+    font-weight: 500;
+}
+
+.head{
+    font-size: 30px;
+    font-weight: 700;
+    margin-right: 25px;
+}
